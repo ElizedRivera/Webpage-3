@@ -10,7 +10,7 @@ body{
   Width: 500px;
 }
 
-#content-Box{
+#content-box{
   background: #4a6677;
   Padding: 15px;
   Margin-bottom: 15px;
@@ -22,7 +22,7 @@ ul{
   List-style-type: none;
   Padding: 0px;
   Display: flex;
-  Justify-content: left;
+  Justify-content: center;
 }
 
 a{
