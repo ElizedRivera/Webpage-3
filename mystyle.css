@@ -18,10 +18,18 @@ body{
 
 ul{
   List-style-type: none;
-
   Padding: 0px;
-
   Display: flex;
-
   Justify-content: left;
+}
+
+a{
+  Text-decoration: none;
+  Background: #FFF;
+  Padding: 16px;
+  margin-bottom:-2px;
+}
+
+a:hover{
+  Background: #b4b4b4;
 }
