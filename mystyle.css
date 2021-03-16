@@ -17,6 +17,8 @@ body{
 }
 
 ul{
+  position: relative;
+  margin-bottom: 16px;
   List-style-type: none;
   Padding: 0px;
   Display: flex;
@@ -27,7 +29,6 @@ a{
   Text-decoration: none;
   Background: #FFF;
   Padding: 16px;
-  margin-bottom:-2px;
 }
 
 a:hover{
